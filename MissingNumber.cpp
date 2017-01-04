@@ -60,9 +60,9 @@ int main(int argc, char** argv) {
 			sum0 +=a[j];
 		}	 
 		
-			cout<<sum<<endl<<sum0<<endl;		
+				
 			M = sum - sum0;
-			cout<<"M:"<<M;
+			cout<<"M:"<<M<<endl;
 		 
 	}
 	
